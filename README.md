@@ -1,9 +1,17 @@
-# Week 6 Blog Post 
+# Week 8 Blog Post 
 ------
 
-### Reflection
+### Sey Min's "What if machines can see music?"
 
-I am starting to have to become comfortable with letting go of control since I am realizing that my skill set doesnt allow for me to have any other option. Since I am new to code I find myself wanting to do more and having many ideas, but little idea for execution. I still have a final vision in my mind for what theme I would like to explore, but going through this discovery process has been great to help me realize what else I could add to my idea. Some of my sketches have lost intended aesthetics but I still feel I am learning valuable lessons and look forward to bringing it all together. 
+https://www.youtube.com/watch?time_continue=14&v=yGl5KFIfSsY
 
+This piece by Sey Min uses data visualization and sound to produce striking images of patterns that are created by different sounds of music. It is absolutely beautiful to watch and her work has been featured in the MoMa. 
+
+### Flight Patterns by Aaron Koblin
+http://www.aaronkoblin.com/project/flight-patterns/
+
+I especially liked how this piece took something so simple as flight patterns and transformed it into art. Aaron Koblin is also highly regarded in this field as a pioneer of Data Viz art. 
+
+By looking through both these art pieces I find myself drawn to artists who use data to create abstract shapes and motions. I find the randomness the most appealing and would hope to incorporate that in my final project. An idea I have for example is to include a speech of a powerful female leader and then have random motion of objects and words. 
 
 

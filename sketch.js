@@ -258,22 +258,20 @@ quad(903,220,1000,50,1090,210,960,190);
 
 
 
- // display the boulders
- for (var i = 0; i < boulders.length; i++) {
-  boulders[i].display();
-  boulders[i].rollover(mouseX, mouseY);
-}
-
 //display the success sign
 if (mouseX > 850) {
  
-
-
 textSize(20);
 fill(random(0,255), random(0,255), 255);
 text('success', 1000, 50);  
  }
 
+
+ // display the boulders
+ for (var i = 0; i < boulders.length; i++) {
+  boulders[i].display();
+  boulders[i].rollover(mouseX, mouseY);
+}
 
 }
 
